@@ -1,5 +1,5 @@
 # Encipher_Cod-ngCheetas_WomenSafety
-###HumanAid : we care your safety
+# HumanAid : we care your safety
 Personal safety and timely help is absolute necessity. We strongly believe that timely help in right
 time may help many needy ones and can decrease this crime rate a bit.
 Our App ##HumanAid will help people to tackle such emergency situations and will ensure women
@@ -12,7 +12,7 @@ location and also that can be triggered with minimal efforts. Along with these a
 are listed below.
 We have desgined the Login UI For New User As well as For Signup.
 Content:
-##Login Page 
+## Login Page 
 ![Login](LoginPortal.png)
-##Registeration Page
+## Registeration Page
 ![Register](register.png)
