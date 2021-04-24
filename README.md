@@ -2,7 +2,7 @@
 ###HumanAid : we care your safety
 Personal safety and timely help is absolute necessity. We strongly believe that timely help in right
 time may help many needy ones and can decrease this crime rate a bit.
-Our App #HumanAid will help people to tackle such emergency situations and will ensure women
+Our App ##HumanAid will help people to tackle such emergency situations and will ensure women
 and child safety. We believe that our app will contribute in decreasing this rate of crimes and
 ensure safety to women and children.
 Our idea is to build an app that ensures safety to everyone especially women and children by
@@ -12,7 +12,7 @@ location and also that can be triggered with minimal efforts. Along with these a
 are listed below.
 We have desgined the Login UI For New User As well as For Signup.
 Content:
-#Login Page 
+##Login Page 
 ![Login](LoginPortal.png)
-#Registeration Page
+##Registeration Page
 ![Register](register.png)
