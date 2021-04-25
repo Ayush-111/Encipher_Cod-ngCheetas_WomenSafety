@@ -25,13 +25,16 @@ Content:
 ## Home Page
 ![Register](home.png)
 ## Add Relative
-![Relative](relative.png)
+![Relative](relative.jpeg)
 ## Helpline Numbers
-![Helpline](help.png)
+![Helpline](help.jpeg)
+![DIAL](dial.jpeg)
 ## Triggers
 ![Triggers](trigg.png)
 ## Fake Siren
-![Siren](siren.png)
+![Siren](siren.jpeg)
+## Location Alert
+![Siren](location.jpeg)
 </br>
 
 ## :iphone: Salient Features:
@@ -65,8 +68,6 @@ A message will be sent along with the live location and the family member with t
 
 ## 💯 Tools
 - Android Studio
-- Adobe XD
-- GitHub Desktop
 
 </br>
 
