@@ -15,6 +15,5 @@ Content:
 ![Login](LoginPortal.png)
 ## Registeration Page
 ![Register](register.png)
-## Registration Page 
-![Register](register.jpg)
+
 
