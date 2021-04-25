@@ -9,9 +9,12 @@ providing timely help in emergency situation. The idea is to build a user-friend
 application that can help individuals by sending emergency alert messages along with current
 location and also that can be triggered with minimal efforts. Along with these additional features
 are listed below.
-We have desgined the Login UI For New User As well as For Signup.
+We have desgined the Login UI For New User As well as For Signup using ADOBE XD FOR THE USER INTERFACE VIEW.
 Content:
 ## Login Page 
 ![Login](LoginPortal.png)
 ## Registeration Page
 ![Register](register.png)
+## Registration Page 
+![Register](register.jpg)
+
