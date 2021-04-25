@@ -11,6 +11,8 @@ location and also that can be triggered with minimal efforts. Along with these a
 are listed below.
 We have desgined the Login UI For New User As well as For Signup using ADOBE XD FOR THE USER INTERFACE VIEW.
 Content:
+## Splash Screen 
+![Splash](FirstPage.png)
 ## Login Page 
 ![Login](LoginPortal.png)
 ## Registeration Page
