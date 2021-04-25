@@ -14,8 +14,8 @@ Content:
 ## Splash Screen 
 ![Splash](FirstPage.png)
 ## Login Page 
-![Login](LoginPortal.png)
+![Login](APPLOGINPortal.jpeg)
 ## Registeration Page
-![Register](register.png)
+![Register](RegistrationPage.png)
 
 
