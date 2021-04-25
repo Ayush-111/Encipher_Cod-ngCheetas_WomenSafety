@@ -1,4 +1,9 @@
 # Encipher_Cod-ngCheetas_WomenSafety
+
+<h1 align ="center"> :information_desk_person: Human Aid :ok_woman: </h1>
+<h3 align ="center"> There is no tool for development more effective than the empowerment of women.</h3>
+
+
 # HumanAid : we care your safety
 Personal safety and timely help is absolute necessity. We strongly believe that timely help in right
 time may help many needy ones and can decrease this crime rate a bit.
@@ -17,5 +22,61 @@ Content:
 ![Login](APPLOGINPortal.jpeg)
 ## Registeration Page
 ![Register](RegistrationPage.png)
+## Home Page
+![Register](home.png)
+## Add Relative
+![Relative](relative.png)
+## Helpline Numbers
+![Helpline](help.png)
+## Triggers
+![Triggers](trigg.png)
+## Fake Siren
+![Siren](siren.png)
+</br>
+
+## :iphone: Salient Features:
+
+#### :telephone_receiver: Trigger Button -
+Press the volume up/down button for 5 seconds, this will send a message along with the location and a call to the registered mobile numbers.
+
+#### :telephone: Helpline Numbers - 
+One-click access to helpline numbers like Women in distress, Domestic abuse, Police, student/child helpline, Ambulance.
+
+</br>
+
+
+</br>
+
+# :calling: How to use:
+#### Step-1 :
+Register to your account using your mobile number.
+#### Step-2 :
+Add your family & friends mobile number.
+#### Step-3 :
+When in emergency, hold the volume up/down button for 5 seconds.
+A message will be sent along with the live location and the family member with the first preference will receive a call.
+
+</br>
+
+## 📊 Technologies Used
+- Java
+
+</br>
+
+## 💯 Tools
+- Android Studio
+- Adobe XD
+- GitHub Desktop
+
+</br>
+
+## :star2: Members
+- [Ayush Saxena]
+- [Priyadarshani Patel]
+
+
+
+
+
 
 
