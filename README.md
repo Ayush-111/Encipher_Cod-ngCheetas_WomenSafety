@@ -73,7 +73,7 @@ A message will be sent along with the live location and the family member with t
 
 ## :star2: Members
 - [Ayush Saxena]
-- [Priyadarshani Patel]
+- [Priyadarshini Patel]
 
 ## CODE FOR HUMANAID
 ## https://github.com/Ayush-111/HUMANAID_LATEST
