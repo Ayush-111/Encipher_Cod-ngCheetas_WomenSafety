@@ -30,7 +30,7 @@ Content:
 ![Helpline](help.jpeg)
 ![DIAL](dial.jpeg)
 ## Triggers
-![Triggers](trigg.png)
+![Triggers](trigg.jpeg)
 ## Fake Siren
 ![Siren](siren.jpeg)
 ## Location Alert
