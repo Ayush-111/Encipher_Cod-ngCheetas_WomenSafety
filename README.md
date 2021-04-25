@@ -75,6 +75,8 @@ A message will be sent along with the live location and the family member with t
 - [Ayush Saxena]
 - [Priyadarshani Patel]
 
+## CODE FOR HUMANAID
+## https://github.com/Ayush-111/HUMANAID_LATEST
 
 
 
